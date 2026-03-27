@@ -1,0 +1,18 @@
+# Qt Creator specific
+*.user
+*.user.*
+
+# Build directories
+build/
+build-*/
+debug/
+release/
+
+# Deployment and Installer outputs
+FileSearchEngine_Deploy/
+*_Setup.exe
+*.iss
+
+# OS generated files
+.DS_Store
+Thumbs.db

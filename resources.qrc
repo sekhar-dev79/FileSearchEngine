@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/copy.svg</file>
+        <file>icons/external-link.svg</file>
+        <file>icons/file-text.svg</file>
+        <file>icons/folder.svg</file>
+        <file>icons/folder-open.svg</file>
+        <file>icons/hard-drive.svg</file>
+        <file>icons/house.svg</file>
+        <file>icons/info.svg</file>
+        <file>icons/Layers.svg</file>
+        <file>icons/power.svg</file>
+        <file>icons/refresh-cw.svg</file>
+        <file>icons/settings.svg</file>
+        <file>icons/chevron-down.svg</file>
+        <file>icons/chevron-up.svg</file>
+        <file>icons/check.svg</file>
+        <file>icons/layout-grid.svg</file>
+        <file>icons/circle-play.svg</file>
+        <file>icons/package.svg</file>
+        <file>icons/code.svg</file>
+        <file>icons/file.svg</file>
+        <file>icons/image.svg</file>
+        <file>icons/app.png</file>
+        <file>icons/x.svg</file>
+    </qresource>
+</RCC>
