@@ -62,15 +62,15 @@ A blazing-fast, strictly minimalist file search utility for Windows. Built for p
 3. Set the build configuration to Release.
 4. Click Build and Run.
 
-Deployment (Standalone Setup)
+### Deployment (Standalone Setup)
 To create a standalone application folder without relying on Qt Creator:
 1. Open the Qt 6.7.3 MinGW Command Prompt.
 2. Navigate to your compiled Release folder.
 3. Run the deployment tool to fetch all necessary runtime DLLs:
 
-windeployqt FileSearchEngine.exe
+* **windeployqt FileSearchEngine.exe**
 (Note: For an even cleaner build, you can safely delete the opengl32sw.dll, Qt6Pdf.dll, and translations folder from the deployment output, as they are not required for this specific widget architecture).
 
-📄 License: 
+### 📄 License: 
 This project is licensed under the MIT License - see the LICENSE file for details.
    
