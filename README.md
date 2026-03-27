@@ -68,7 +68,7 @@ To create a standalone application folder without relying on Qt Creator:
 2. Navigate to your compiled Release folder.
 3. Run the deployment tool to fetch all necessary runtime DLLs:
 
-windeployqt --compiler-runtime FileSearchEngine.exe
+windeployqt FileSearchEngine.exe
 (Note: For an even cleaner build, you can safely delete the opengl32sw.dll, Qt6Pdf.dll, and translations folder from the deployment output, as they are not required for this specific widget architecture).
 
 📄 License: 
